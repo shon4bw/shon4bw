@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+안녕하세요! 
+코린이 중 코린이 shon입니다.
+
 <!--
 **shon4bw/shon4bw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
