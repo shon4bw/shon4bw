@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=auto&height=250&section=header&text=Shon%204bw&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=auto&height=250&section=header&text=Shon%20&fontSize=90)
 
 ### Hi there 👋
 
