@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshon4bw%2Fhit-counter&count_bg=%23A5B4FC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Shon&fontSize=80&animation=fadeIn&fontAlign=85&fontAlignY=40&desc=who%20always%20cut%20the%20mustard&descAlign=81)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shon&fontSize=75&animation=fadeIn&fontAlign=85&fontAlignY=35&desc=who%20always%20cut%20the%20mustard&descAlign=81&descAlignY=56)
 
 ### Hi there 👋
 It's a pleasure to make your acquaintance.
