@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=auto&height=250&section=header&text=Shon&fontSize=80&animation=fadeIn&fontAlign=85&fontAlignY=40&desc=who%20always%20cut%20the%20mustard&descAlign=81)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Shon&fontSize=80&animation=fadeIn&fontAlign=85&fontAlignY=40&desc=who%20always%20cut%20the%20mustard&descAlign=81)
 
 ### Hi there 👋
 
